@@ -63,5 +63,4 @@ def monopoly_with_fourth_tier
 	    }
 	  }
 	}
-	binding.pry
 end
